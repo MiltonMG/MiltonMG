@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available **[in my portfolio](https://miltongalindo.com/#/)**
 
-- 📫 How to reach me **<a href="mailto:milton.elsalvador26@gmail.com" target="_blank">milton.elsalvador26@gmail.com</a>**
+- 📫 How to reach me **<a href="mailto:milton.elsalvador26@gmail.com" target="blank">milton.elsalvador26@gmail.com</a>**
 
 - 🌱 I’m currently learning **Sockets**
 
@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/miltongalindo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/miltongalindo/" height="30" width="40" /></a>
-<a href="https://instagram.com/miltonmg.sv/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/miltonmg.sv/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/miltongalindo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/miltongalindo/" height="30" width="40" /></a>
+<a href="https://instagram.com/miltonmg.sv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/miltonmg.sv/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
