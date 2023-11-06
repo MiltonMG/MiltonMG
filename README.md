@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **<a href="mailto:milton.elsalvador26@gmail.com" target="blank">milton.elsalvador26@gmail.com</a>**
 
-- 🌱 I’m currently learning **Sockets**
+- 🌱 I’m currently learning **Wordpress**
 
 - 💬 Ask me about **ReactJS, NodeJS, JS**
 
