@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="300"  height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDcyZmRiNTE5ODk4ZmFiNzY3Y2E5ZWQ3YjRkNGRkZDkzZWFlODc2YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SQHaqJRI79LtLPTWpe/giphy.gif">
 
 
-- 👨‍💻 All of my projects are available **[in my portfolio](https://miltongalindo.com/#/)**
+- 👨‍💻 All of my projects are available **[in my portfolio](https://milton-mg.netlify.app/)**
 
 - 📫 How to reach me **<a href="mailto:milton.elsalvador26@gmail.com" target="blank">milton.elsalvador26@gmail.com</a>**
 
-- 🌱 I’m currently learning **Nest JS**
+- 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **ReactJS, NodeJS, JS**
+- 💬 Ask me about **ReactJS, NodeJS, JS, TS**
 
 - ⚡ Fun fact **I want to practice skydiving and snowboarding one day.**
 
@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/miltongalindo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/miltongalindo/" height="30" width="40" /></a>
 <a href="https://instagram.com/miltonmg.sv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/miltonmg.sv/" height="30" width="40" /></a>
-<a href="https://miltongalindo.com/" target="blank"><img align="center" src="https://res.cloudinary.com/dazaq2wzn/image/upload/v1686166556/WING_fk0c4g.png" alt="https://miltongalindo.com/" height="30" width="40" />
+<a href="https://milton-mg.netlify.app/" target="blank"><img align="center" src="https://res.cloudinary.com/dazaq2wzn/image/upload/v1686166556/WING_fk0c4g.png" alt="https://miltongalindo.com/" height="30" width="40" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
