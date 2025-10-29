@@ -8,9 +8,7 @@
 
 - 📫 How to reach me **<a href="mailto:milton.elsalvador26@gmail.com" target="blank">milton.elsalvador26@gmail.com</a>**
 
-- 🌱 I’m currently learning **Next JS**
-
-- 💬 Ask me about **ReactJS, NodeJS, JS, TS**
+- 💬 Ask me about **ReactJS, Next JS, NodeJS, JS, TS**
 
 - ⚡ Fun fact **I want to practice skydiving and snowboarding one day.**
 
