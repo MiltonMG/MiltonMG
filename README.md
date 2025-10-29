@@ -15,7 +15,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/miltongalindo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/miltongalindo/" height="30" width="40" /></a>
-<a href="https://instagram.com/miltonmg.sv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/miltonmg.sv/" height="30" width="40" /></a>
 <a href="https://milton-mg.netlify.app/" target="blank"><img align="center" src="https://res.cloudinary.com/dazaq2wzn/image/upload/v1686166556/WING_fk0c4g.png" alt="https://miltongalindo.com/" height="30" width="40" />
 </p>
 
